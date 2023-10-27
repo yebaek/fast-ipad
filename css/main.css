@@ -54,7 +54,6 @@ p {
 .btn:focus {
   box-shadow: 0 0 0 4px #81b9f1;
 }
-
 /* Background image text */
 .bgtext {
   display: block;
