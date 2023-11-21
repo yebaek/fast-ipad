@@ -814,20 +814,20 @@ main {
   width: 120px;
   height: 84px;
   background-image: url(../images/hero_ipad_caption_camera.png);
-  transform: translate(43px, -230px); /* 강의랑 다름 transform: translate(43px, 580px); */
+  transform: translate(43px, 580px); /* 강의랑 다름 transform: translate(43px, 580px); */
 }
 .hero figure figcaption .caption-chip {
   width: 95px;
   height: 43px;
   background-image: url(../images/hero_ipad_caption_chip.png);
-  transform: translate(589px, -380px); /* 강의랑 다름 transform: translate(589px, 510px);
+  transform: translate(589px, 510px); /* 강의랑 다름 transform: translate(589px, 510px);
   */
 }
 .hero figure figcaption .caption-storage {
   width: 80px;
   height: 43px;
   background-image: url(../images/hero_ipad_caption_storage.png);
-  transform: translate(627px, -310px); /* 강의랑 다름 transform: translate(627px, 631px);
+  transform: translate(627px, 631px); /* 강의랑 다름 transform: translate(627px, 631px);
    */
 }
 .hero h2 {
@@ -1324,7 +1324,8 @@ main {
 }
 
 
-/* COmpare */
+
+/* Compare */
 .compare {
   padding: 20px 20px 0;
   background-color: var(--color-section);
